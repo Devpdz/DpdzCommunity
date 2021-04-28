@@ -1,16 +1,14 @@
-[
-  {
-    "Spanish": {
-      "Error1": "No tienes accesso a internet.",
-      "Error2": "Necesito acceso de administrador para ejecutar los procesos sin problemas o interrupciones."
-    },
-    "Turkish": {
-      "Error1": "İnternet erişiminiz yok",
-      "Error2": "İşlemleri sorunsuz ve kesintisiz çalıştırmak için yönetici iznine ihtiyacımız var"
-    },
-    "English": {
-      "Error1": "You don't have access to the internet.",
-      "Error2": "We need administrator access to run processes smoothly and without interruption."
-    }
+{
+  "Spanish": {
+    "Error1": "No tienes accesso a internet.",
+    "Error2": "Necesito acceso de administrador para ejecutar los procesos sin problemas o interrupciones."
+  },
+  "Turkish": {
+    "Error1": "İnternet erişiminiz yok",
+    "Error2": "İşlemleri sorunsuz ve kesintisiz çalıştırmak için yönetici iznine ihtiyacımız var"
+  },
+  "English": {
+    "Error1": "You don't have access to the internet.",
+    "Error2": "We need administrator access to run processes smoothly and without interruption."
   }
-]
+}
