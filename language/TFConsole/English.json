@@ -1,5 +1,11 @@
 {
   "Error1": "You don't have access to the internet.",
   "Error2": "We need administrator access to run processes smoothly and without interruption.",
-  "Suggest1": "Usage: Updater.exe [>z] \n\nIn case you want to see information for follow."
+  "Suggest": "Usage: Updater.exe [argument]",
+  "Suggest1": ">d , --discord                       In case you want to see our discord server.",
+  "Suggest2": ">y , --youtube                       In case you want to see our youtube channel.",
+  "Suggest3": ">c , --credits                       Prints all transforcheaters history to at date.",
+  "Suggest4": ">tm , --available                    Show Transformice available in our mod menu.",
+  "Suggest5": null,
+  "Suggest6": null
 }
