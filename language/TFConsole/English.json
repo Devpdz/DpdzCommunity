@@ -1,4 +1,5 @@
 {
   "Error1": "You don't have access to the internet.",
-  "Error2": "We need administrator access to run processes smoothly and without interruption."
+  "Error2": "We need administrator access to run processes smoothly and without interruption.",
+  "Suggest1": "Usage: Updater.exe [>z] \n\nIn case you want to see information for follow."
 }
