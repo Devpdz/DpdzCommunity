@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <Authors>Devpdz</Authors>
+    <Company>TransforCheaters</Company>
+    <Product>Language dump</Product>
+    <Copyright>Devpdz</Copyright>
+    <NeutralLanguage>eo-001</NeutralLanguage>
+    <Description>Powered by Dpdz</Description>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+
+</Project>
